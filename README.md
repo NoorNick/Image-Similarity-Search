@@ -2,11 +2,11 @@
 # 🖼️ Image Similarity Search
 a Machine Learning model Built to Search for Similar or Identical Images. This Project was made in fulfillment with the Skills Union Data Science and AI Certification.
 <br><br>
-## 🚀 Project Overview
+## Project Overview
 This project builds a basic Image Search System that uses the K Nearest Neighbor Algorithm to Search if an Image is similar to a list of other Images. It demonstrates core KNN preprocessing steps and classification techniques using Python's scikit-learn library.
 <br><br>
 
-## 🛠️ Features
+## Features
 - Extracting Image from Python's Image Library.
   
 - Preprocessing to ensure accuracy.
@@ -17,7 +17,7 @@ This project builds a basic Image Search System that uses the K Nearest Neighbor
 
 <br><br>
 
-## 🧰 Technologies Used
+## Technologies Used
 - Python 3.x
 
 - scikit-learn
@@ -29,10 +29,10 @@ This project builds a basic Image Search System that uses the K Nearest Neighbor
 - matplotlib
 <br><br>
 
-## 🗂️ Dataset
+## Dataset
 3 Images extracted from PIL, an image of an astronaut, cup of coffee, and a cat.
 
-⚙️ Installation & Setup
+Installation & Setup
 1. Clone the repo:
 
 ```
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ```
 <br><br>
 
-## ▶️ How to Run
+## How to Run
 Run the notebook or script to train the spam classifier and test it:
 
 ```
